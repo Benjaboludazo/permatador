@@ -1,0 +1,47 @@
+[19:34:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:34:34] [ServerMain/INFO]: Loaded 7 recipes
+[19:34:34] [ServerMain/INFO]: Loaded 1271 advancements
+[19:34:35] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:34:35] [Server thread/INFO]: Loading properties
+[19:34:35] [Server thread/INFO]: Default game type: SURVIVAL
+[19:34:35] [Server thread/INFO]: Generating keypair
+[19:34:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:34:35] [Server thread/INFO]: Using epoll channel type
+[19:34:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:34:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:34:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:34:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:34:35] [Server thread/INFO]: Preparing level "world"
+[19:34:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:34:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:34:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:34:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:34:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:34:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:34:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:34:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:34:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:34:42] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[19:34:42] [Server thread/INFO]: Time elapsed: 4464 ms
+[19:34:42] [Server thread/INFO]: Done (7.004s)! For help, type "help"
+[19:35:02] [Server thread/INFO]: Miller2014[/172.27.204.165:53179] logged in with entity id 136 at (-242.36834043634718, 88.0, -37.847826459756796)
+[19:35:02] [Server thread/INFO]: Miller2014 joined the game
+[19:35:13] [Server thread/INFO]: Made Miller2014 a server operator
+[19:36:57] [Server thread/INFO]: [Miller2014: Set own game mode to Creative Mode]
+[19:38:27] [Server thread/INFO]: [Miller2014: Set own game mode to Survival Mode]
+[19:38:30] [Server thread/INFO]: [Miller2014: Set own game mode to Creative Mode]
+[19:38:41] [Server thread/INFO]: Miller2014 has made the advancement [Cover Me with Diamonds]
+[19:38:59] [Server thread/INFO]: [Miller2014: Applied enchantment Blast Protection IV to Miller2014's item]
+[19:39:03] [Server thread/INFO]: [Miller2014: Applied enchantment Blast Protection IV to Miller2014's item]
+[19:39:05] [Server thread/INFO]: [Miller2014: Applied enchantment Blast Protection IV to Miller2014's item]
+[19:39:10] [Server thread/INFO]: [Miller2014: Applied enchantment Blast Protection IV to Miller2014's item]
+[19:39:13] [Server thread/INFO]: [Miller2014: Set own game mode to Survival Mode]
+[19:39:39] [Server thread/INFO]: [Miller2014: Set own game mode to Creative Mode]
+[19:39:54] [Server thread/INFO]: [Miller2014: Applied enchantment Feather Falling IV to Miller2014's item]
+[19:40:29] [Server thread/INFO]: [Miller2014: Set own game mode to Survival Mode]
+[19:41:01] [Server thread/INFO]: [Miller2014: Set own game mode to Creative Mode]
+[19:41:22] [Server thread/INFO]: [Miller2014: Set the time to 1000]
+[19:41:24] [Server thread/INFO]: [Miller2014: Set the weather to clear]
+[19:41:32] [Server thread/INFO]: [Miller2014: Gamerule doDaylightCycle is now set to: false]
+[19:41:37] [Server thread/INFO]: [Miller2014: Set own game mode to Survival Mode]
+[19:41:55] [Server thread/INFO]: [Miller2014: Set own game mode to Creative Mode]
