@@ -58,3 +58,30 @@
 [19:52:02] [Server thread/INFO]: Miller2014 joined the game
 [19:52:13] [Server thread/INFO]: Miller2014 lost connection: Disconnected
 [19:52:13] [Server thread/INFO]: Miller2014 left the game
+[19:55:49] [Server thread/INFO]: Miller2014[/172.27.204.165:54409] logged in with entity id 3670 at (-149.68718722453752, 78.0, 30.481723770756844)
+[19:55:49] [Server thread/INFO]: Miller2014 joined the game
+[19:56:30] [Server thread/INFO]: Miller2014 lost connection: Timed out
+[19:56:30] [Server thread/INFO]: Miller2014 left the game
+[19:57:41] [Server thread/INFO]: El_abueloo[/172.27.140.170:62188] logged in with entity id 3805 at (-2.5, 65.0, 34.5)
+[19:57:41] [Server thread/INFO]: El_abueloo joined the game
+[19:57:48] [Server thread/INFO]: Miller2014[/172.27.204.165:54514] logged in with entity id 3905 at (-149.68718722453752, 78.0, 30.481723770756844)
+[19:57:48] [Server thread/INFO]: Miller2014 joined the game
+[19:57:59] [Server thread/INFO]: El_abueloo lost connection: Disconnected
+[19:57:59] [Server thread/INFO]: El_abueloo left the game
+[19:58:32] [Server thread/INFO]: Miller2014 lost connection: Timed out
+[19:58:32] [Server thread/INFO]: Miller2014 left the game
+[19:59:29] [Server thread/INFO]: Miller2014[/172.27.204.165:54607] logged in with entity id 4071 at (-149.68718722453752, 78.0, 30.481723770756844)
+[19:59:29] [Server thread/INFO]: Miller2014 joined the game
+[20:00:29] [Server thread/INFO]: [Miller2014: Set own game mode to Survival Mode]
+[20:00:39] [Server thread/WARN]: Miller2014 moved too quickly! -0.4775438997773165,24.511859082872093,0.4661410213365045
+[20:00:43] [Server thread/WARN]: Miller2014 moved too quickly! -0.0718951802916763,-15.035772906733655,0.0508973375933266
+[20:00:43] [Server thread/INFO]: Miller2014 fell from a high place
+[20:00:59] [Server thread/INFO]: [Miller2014: Gamerule keepInventory is now set to: true]
+[20:01:22] [Server thread/INFO]: Miller2014 lost connection: Timed out
+[20:01:22] [Server thread/INFO]: Miller2014 left the game
+[20:01:30] [Server thread/INFO]: Miller2014[/172.27.204.165:54717] logged in with entity id 4742 at (-95.62293331196615, 66.162141421027, 32.07507020121644)
+[20:01:30] [Server thread/INFO]: Miller2014 joined the game
+[20:03:44] [Server thread/INFO]: [Miller2014: Set own game mode to Creative Mode]
+[20:03:47] [Server thread/INFO]: [Miller2014: Set own game mode to Survival Mode]
+[20:03:54] [Server thread/INFO]: [Miller2014: Set spawn point to -154, 78, 32 [0.0] in minecraft:overworld for Miller2014]
+[20:04:21] [Server thread/WARN]: Miller2014 moved too quickly! -0.29820390183908785,18.707839248846312,-0.7543925902532713
