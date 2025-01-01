@@ -983,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-01 21:01:50 +0000"
@@ -1001,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
   "skyblock:sand_island/get_64_of_all_crops": {
     "criteria": {
       "sweet_berries": "2025-01-01 20:59:21 +0000"
@@ -1009,11 +1021,12 @@
   },
   "skyblock:skyblock/all_islands": {
     "criteria": {
+      "geode_island": "2025-01-01 22:28:03 +0000",
       "forest_island": "2025-01-01 20:30:50 +0000",
       "sand_island": "2025-01-01 21:01:36 +0000",
       "cave_island": "2025-01-01 21:00:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
@@ -1078,6 +1091,12 @@
   "skyblock:skyblock/nether": {
     "criteria": {
       "requirement": "2025-01-01 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "skyblock:geode_island/get_amethyst_shard": {
+    "criteria": {
+      "requirement": "2025-01-01 22:27:46 +0000"
     },
     "done": true
   },
@@ -1243,9 +1262,21 @@
     },
     "done": true
   },
+  "skyblock:geode_island/root": {
+    "criteria": {
+      "geode_island": "2025-01-01 22:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-01 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
     },
     "done": true
   },
@@ -1321,6 +1352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-01 21:01:50 +0000"
@@ -1387,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/skyblock/calcite": {
+    "criteria": {
+      "has_amethyst": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
   "skyblock:nether/reach_the_fortress": {
     "criteria": {
       "fortress": "2025-01-01 21:11:45 +0000"
@@ -1426,6 +1469,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+    },
+    "done": true
+  },
+  "skyblock:cave_island/use_bone_meal_on_cave_vine": {
+    "criteria": {
+      "requirement": "2025-01-01 22:26:58 +0000"
     },
     "done": true
   },
