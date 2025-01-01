@@ -421,6 +421,7 @@
       "blaze": "2025-01-01 21:17:57 +0000",
       "zombie": "2024-12-31 22:05:16 +0000",
       "wither_skeleton": "2025-01-01 21:51:23 +0000",
+      "zombie_villager": "2025-01-01 23:26:35 +0000",
       "phantom": "2024-12-31 21:44:48 +0000",
       "witch": "2024-12-31 22:02:20 +0000",
       "spider": "2024-12-31 22:07:46 +0000",
@@ -625,7 +626,8 @@
   "skyblock:sand_island/kill_all_types_of_zombies": {
     "criteria": {
       "zombified_piglin": "2025-01-01 21:04:42 +0000",
-      "zombie": "2024-12-31 22:05:16 +0000"
+      "zombie": "2024-12-31 22:05:16 +0000",
+      "zombie_villager": "2025-01-01 23:26:35 +0000"
     },
     "done": false
   },
@@ -923,9 +925,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_lilac": "2025-01-01 20:31:49 +0000"
+      "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-01 19:42:26 +0000"
     },
     "done": true
   },
@@ -935,33 +985,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-01-01 20:31:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-01-01 19:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-01-01 23:01:59 +0000"
     },
     "done": true
   },
@@ -977,33 +1003,9 @@
     },
     "done": true
   },
-  "skyblock:nether/root": {
-    "criteria": {
-      "requirement": "2025-01-01 20:47:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
     },
     "done": true
   },
@@ -1013,72 +1015,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 22:59:26 +0000"
-    },
-    "done": true
-  },
-  "skyblock:sand_island/get_64_of_all_crops": {
-    "criteria": {
-      "sweet_berries": "2025-01-01 20:59:21 +0000"
-    },
-    "done": false
-  },
-  "skyblock:skyblock/all_islands": {
-    "criteria": {
-      "geode_island": "2025-01-01 22:28:03 +0000",
-      "forest_island": "2025-01-01 20:30:50 +0000",
-      "sand_island": "2025-01-01 21:01:36 +0000",
-      "cave_island": "2025-01-01 21:00:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2025-01-01 20:01:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-01-01 20:02:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-01-01 22:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-01-01 20:02:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-01-01 20:02:09 +0000"
     },
     "done": true
   },
@@ -1088,57 +1027,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-01 19:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "skyblock:skyblock/come_to_island": {
-    "criteria": {
-      "forest_island": "2025-01-01 20:30:50 +0000"
-    },
-    "done": true
-  },
-  "skyblock:skyblock/nether": {
-    "criteria": {
-      "requirement": "2025-01-01 20:46:00 +0000"
-    },
-    "done": true
-  },
-  "skyblock:geode_island/get_amethyst_shard": {
-    "criteria": {
-      "requirement": "2025-01-01 22:27:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
-    },
-    "done": true
-  },
-  "skyblock:nether/kill_wither_skeleton": {
-    "criteria": {
-      "kill_wither_skeleton": "2025-01-01 21:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-01-01 20:46:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
     },
     "done": true
   },
@@ -1148,33 +1039,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-01-01 21:57:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-01-01 21:01:50 +0000"
     },
     "done": true
   },
@@ -1196,87 +1063,9 @@
     },
     "done": true
   },
-  "skyblock:sand_island/root": {
-    "criteria": {
-      "sand_island": "2025-01-01 21:01:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-01 21:54:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-01-01 19:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "skyblock:forest_island/root": {
-    "criteria": {
-      "forest_island": "2025-01-01 20:30:50 +0000"
-    },
-    "done": true
-  },
-  "skyblock:nether/reach_all_nether_biomes": {
-    "criteria": {
-      "nether_wastes": "2025-01-01 20:47:24 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 22:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-01 19:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-01 20:46:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2025-01-01 19:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-01 19:42:26 +0000"
     },
     "done": true
   },
@@ -1286,81 +1075,63 @@
     },
     "done": true
   },
-  "skyblock:geode_island/root": {
-    "criteria": {
-      "geode_island": "2025-01-01 22:28:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-01 21:54:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 22:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-01-01 20:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 22:59:26 +0000"
-    },
-    "done": true
-  },
-  "skyblock:cave_island/root": {
-    "criteria": {
-      "cave_island": "2025-01-01 21:00:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-01-01 20:31:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
+  "minecraft:recipes/decorations/chain": {
     "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
+      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
     },
     "done": true
   },
-  "skyblock:sand_island/come_to_witch_hut": {
+  "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
-      "requirement": "2025-01-01 23:15:26 +0000"
+      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
+  "minecraft:recipes/tools/iron_axe": {
     "criteria": {
-      "has_ancient_debris": "2025-01-01 21:57:13 +0000"
+      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-01-01 20:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-01-01 20:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 20:02:09 +0000"
     },
     "done": true
   },
@@ -1370,9 +1141,240 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+      "has_log": "2025-01-01 20:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 20:02:32 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/all_islands": {
+    "criteria": {
+      "geode_island": "2025-01-01 22:28:03 +0000",
+      "forest_island": "2025-01-01 20:30:50 +0000",
+      "sand_island": "2025-01-01 21:01:36 +0000",
+      "cave_island": "2025-01-01 21:00:43 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/come_to_island": {
+    "criteria": {
+      "forest_island": "2025-01-01 20:30:50 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/root": {
+    "criteria": {
+      "forest_island": "2025-01-01 20:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-01 20:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-01-01 20:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-01 20:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-01 20:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-01 20:31:53 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/nether": {
+    "criteria": {
+      "requirement": "2025-01-01 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-01 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "skyblock:nether/root": {
+    "criteria": {
+      "requirement": "2025-01-01 20:47:23 +0000"
+    },
+    "done": true
+  },
+  "skyblock:nether/reach_all_nether_biomes": {
+    "criteria": {
+      "nether_wastes": "2025-01-01 20:47:24 +0000"
+    },
+    "done": false
+  },
+  "skyblock:sand_island/get_64_of_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-01-01 20:59:21 +0000"
+    },
+    "done": false
+  },
+  "skyblock:cave_island/root": {
+    "criteria": {
+      "cave_island": "2025-01-01 21:00:43 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/root": {
+    "criteria": {
+      "sand_island": "2025-01-01 21:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-01 21:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "skyblock:nether/reach_the_fortress": {
+    "criteria": {
+      "fortress": "2025-01-01 21:11:45 +0000"
     },
     "done": true
   },
@@ -1388,123 +1390,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+      "has_blaze_rod": "2025-01-01 21:31:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "skyblock:nether/kill_wither_skeleton": {
     "criteria": {
-      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 22:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "skyblock:geode_island/get_64_sands": {
-    "criteria": {
-      "requirement": "2025-01-01 22:37:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-01-01 20:46:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-01-01 21:01:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 22:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-01-01 19:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 22:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-01 19:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 22:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-01 21:01:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-01-01 20:31:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/skyblock/calcite": {
-    "criteria": {
-      "has_amethyst": "2025-01-01 22:27:46 +0000"
-    },
-    "done": true
-  },
-  "skyblock:nether/reach_the_fortress": {
-    "criteria": {
-      "fortress": "2025-01-01 21:11:45 +0000"
+      "kill_wither_skeleton": "2025-01-01 21:51:23 +0000"
     },
     "done": true
   },
@@ -1514,9 +1408,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_planks": "2025-01-01 19:42:26 +0000"
+      "has_gold_nugget": "2025-01-01 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-01 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-01 21:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-01 21:57:13 +0000"
     },
     "done": true
   },
@@ -1526,9 +1438,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "skyblock:cave_island/use_bone_meal_on_cave_vine": {
     "criteria": {
-      "has_blaze_rod": "2025-01-01 21:31:41 +0000"
+      "requirement": "2025-01-01 22:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
+  "skyblock:geode_island/get_amethyst_shard": {
+    "criteria": {
+      "requirement": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/calcite": {
+    "criteria": {
+      "has_amethyst": "2025-01-01 22:27:46 +0000"
+    },
+    "done": true
+  },
+  "skyblock:geode_island/root": {
+    "criteria": {
+      "geode_island": "2025-01-01 22:28:03 +0000"
+    },
+    "done": true
+  },
+  "skyblock:geode_island/get_64_sands": {
+    "criteria": {
+      "requirement": "2025-01-01 22:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-01 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-01 23:01:59 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/come_to_witch_hut": {
+    "criteria": {
+      "requirement": "2025-01-01 23:15:26 +0000"
     },
     "done": true
   },
@@ -1538,27 +1564,67 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "has_vine": "2025-01-01 20:01:46 +0000"
+      "has_beetroot": "2025-01-01 23:23:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_door": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+      "has_beetroot": "2025-01-01 23:23:02 +0000"
     },
     "done": true
   },
-  "skyblock:cave_island/use_bone_meal_on_cave_vine": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "requirement": "2025-01-01 22:26:58 +0000"
+      "has_pumpkin": "2025-01-01 23:23:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+      "has_pumpkin": "2025-01-01 23:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-01 23:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-01 23:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-01 23:23:30 +0000"
+    },
+    "done": true
+  },
+  "skyblock:cave_island/get_tuff_and_deepslate": {
+    "criteria": {
+      "deepslate": "2025-01-01 23:28:03 +0000",
+      "tuff": "2025-01-01 23:27:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/feed_chickens": {
+    "criteria": {
+      "wheat": "2025-01-01 23:30:26 +0000",
+      "melon": "2025-01-01 23:30:28 +0000",
+      "pumpkin": "2025-01-01 23:30:24 +0000",
+      "beetroot": "2025-01-01 23:30:26 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/animal_platform": {
+    "criteria": {
+      "chicken": "2025-01-01 23:30:28 +0000"
     },
     "done": true
   },
