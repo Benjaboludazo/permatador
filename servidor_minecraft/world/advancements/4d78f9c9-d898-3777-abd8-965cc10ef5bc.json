@@ -349,7 +349,8 @@
   },
   "skyblock:skyblock/all_islands": {
     "criteria": {
-      "forest_island": "2025-01-01 20:22:49 +0000"
+      "forest_island": "2025-01-01 20:22:49 +0000",
+      "cave_island": "2025-01-01 22:14:15 +0000"
     },
     "done": false
   },
@@ -483,7 +484,8 @@
   },
   "skyblock:sand_island/kill_all_types_of_zombies": {
     "criteria": {
-      "zombie": "2025-01-01 20:17:49 +0000"
+      "zombie": "2025-01-01 20:17:49 +0000",
+      "zombie_villager": "2025-01-01 22:12:46 +0000"
     },
     "done": false
   },
@@ -541,6 +543,7 @@
       "blaze": "2025-01-01 21:28:37 +0000",
       "zombie": "2025-01-01 20:17:49 +0000",
       "wither_skeleton": "2025-01-01 21:29:19 +0000",
+      "zombie_villager": "2025-01-01 22:12:46 +0000",
       "spider": "2025-01-01 20:34:48 +0000",
       "creeper": "2025-01-01 20:17:50 +0000"
     },
@@ -659,6 +662,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-01-01 21:02:56 +0000"
+    },
+    "done": true
+  },
+  "skyblock:cave_island/root": {
+    "criteria": {
+      "cave_island": "2025-01-01 22:14:15 +0000"
     },
     "done": true
   },
