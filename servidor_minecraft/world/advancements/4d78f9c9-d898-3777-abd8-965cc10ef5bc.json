@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "skyblock:nether/kill_wither_skeleton": {
+    "criteria": {
+      "kill_wither_skeleton": "2025-01-01 21:29:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-01-01 21:08:52 +0000"
@@ -525,7 +531,9 @@
   "skyblock:sand_island/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-01-01 20:17:51 +0000",
+      "blaze": "2025-01-01 21:28:37 +0000",
       "zombie": "2025-01-01 20:17:49 +0000",
+      "wither_skeleton": "2025-01-01 21:29:19 +0000",
       "spider": "2025-01-01 20:34:48 +0000",
       "creeper": "2025-01-01 20:17:50 +0000"
     },
@@ -677,9 +685,21 @@
     },
     "done": true
   },
+  "skyblock:nether/get_blaze_rod": {
+    "criteria": {
+      "get_blaze_rod": "2025-01-01 21:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-01 20:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-01 21:28:40 +0000"
     },
     "done": true
   },
@@ -869,6 +889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-01 21:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-01 20:43:08 +0000"
@@ -878,6 +904,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-01 20:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-01 21:28:40 +0000"
     },
     "done": true
   },

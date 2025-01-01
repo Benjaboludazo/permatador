@@ -1272,6 +1272,18 @@
     },
     "done": true
   },
+  "skyblock:nether/get_blaze_rod": {
+    "criteria": {
+      "get_blaze_rod": "2025-01-01 21:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-01 21:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
@@ -1353,6 +1365,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-01 21:31:41 +0000"
     },
     "done": true
   },
