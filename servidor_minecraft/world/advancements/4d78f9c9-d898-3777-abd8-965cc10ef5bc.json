@@ -353,6 +353,12 @@
     },
     "done": false
   },
+  "skyblock:forest_island/feed_chickens": {
+    "criteria": {
+      "wheat": "2025-01-01 22:45:51 +0000"
+    },
+    "done": false
+  },
   "skyblock:skyblock/all_islands": {
     "criteria": {
       "forest_island": "2025-01-01 20:22:49 +0000",
@@ -608,6 +614,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-01 20:20:25 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/animal_platform": {
+    "criteria": {
+      "chicken": "2025-01-01 22:45:55 +0000"
     },
     "done": true
   },
