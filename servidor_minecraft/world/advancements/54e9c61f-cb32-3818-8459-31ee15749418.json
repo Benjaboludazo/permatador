@@ -917,9 +917,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-01 20:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-01 20:31:51 +0000"
     },
     "done": true
   },
@@ -958,6 +970,12 @@
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
     },
     "done": true
+  },
+  "skyblock:skyblock/all_islands": {
+    "criteria": {
+      "forest_island": "2025-01-01 20:30:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
@@ -998,6 +1016,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/come_to_island": {
+    "criteria": {
+      "forest_island": "2025-01-01 20:30:50 +0000"
     },
     "done": true
   },
@@ -1049,6 +1073,12 @@
     },
     "done": true
   },
+  "skyblock:forest_island/root": {
+    "criteria": {
+      "forest_island": "2025-01-01 20:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-01 19:42:26 +0000"
@@ -1070,6 +1100,18 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-01 20:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-01-01 20:31:50 +0000"
     },
     "done": true
   },
@@ -1118,6 +1160,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-01 20:31:53 +0000"
     },
     "done": true
   },

@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "skyblock:sand_island/killed_spider": {
+    "criteria": {
+      "requirement": "2025-01-01 20:34:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 20:19:35 +0000"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "skyblock:sand_island/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-01-01 20:27:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 20:19:35 +0000"
@@ -405,6 +417,7 @@
     "criteria": {
       "skeleton": "2025-01-01 20:17:51 +0000",
       "zombie": "2025-01-01 20:17:49 +0000",
+      "spider": "2025-01-01 20:34:48 +0000",
       "creeper": "2025-01-01 20:17:50 +0000"
     },
     "done": false
@@ -466,6 +479,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-01 20:29:25 +0000"
     },
     "done": true
   },
@@ -544,6 +563,18 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-01 20:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-01 20:29:25 +0000"
     },
     "done": true
   },
