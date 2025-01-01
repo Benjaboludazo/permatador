@@ -275,5 +275,289 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/all_islands": {
+    "criteria": {
+      "forest_island": "2025-01-01 20:22:49 +0000"
+    },
+    "done": false
+  },
+  "skyblock:sand_island/killed_creeper": {
+    "criteria": {
+      "requirement": "2025-01-01 20:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/come_to_island": {
+    "criteria": {
+      "forest_island": "2025-01-01 20:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/build_mob_farm": {
+    "criteria": {
+      "bone": "2025-01-01 20:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/kill_all_types_of_zombies": {
+    "criteria": {
+      "zombie": "2025-01-01 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2025-01-01 20:17:51 +0000",
+      "zombie": "2025-01-01 20:17:49 +0000",
+      "creeper": "2025-01-01 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/skyblock/tuff": {
+    "criteria": {
+      "has_piglin": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "skyblock:forest_island/root": {
+    "criteria": {
+      "forest_island": "2025-01-01 20:22:49 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/killed_zombie": {
+    "criteria": {
+      "requirement": "2025-01-01 20:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-01 20:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/red_sand": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/killed_skeleton": {
+    "criteria": {
+      "requirement": "2025-01-01 20:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "skyblock:sand_island/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-01-01 20:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
