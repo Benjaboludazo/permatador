@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "skyblock:nether/reach_the_fortress": {
+    "criteria": {
+      "fortress": "2025-01-01 21:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-01 20:29:25 +0000"
