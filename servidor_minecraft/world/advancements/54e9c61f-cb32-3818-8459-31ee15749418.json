@@ -1242,7 +1242,8 @@
   },
   "skyblock:sand_island/get_64_of_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-01-01 20:59:21 +0000"
+      "sweet_berries": "2025-01-01 20:59:21 +0000",
+      "kelp": "2025-01-01 23:49:33 +0000"
     },
     "done": false
   },
@@ -1619,6 +1620,12 @@
       "melon": "2025-01-01 23:30:28 +0000",
       "pumpkin": "2025-01-01 23:30:24 +0000",
       "beetroot": "2025-01-01 23:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-01-01 23:50:34 +0000"
     },
     "done": true
   },
