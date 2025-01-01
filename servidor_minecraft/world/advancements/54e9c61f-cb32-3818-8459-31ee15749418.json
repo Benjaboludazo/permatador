@@ -1376,6 +1376,12 @@
     },
     "done": true
   },
+  "skyblock:geode_island/get_64_sands": {
+    "criteria": {
+      "requirement": "2025-01-01 22:37:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
