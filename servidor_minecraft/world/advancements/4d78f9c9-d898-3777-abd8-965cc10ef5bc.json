@@ -329,11 +329,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-01 20:41:01 +0000"
     },
     "done": true
+  },
+  "skyblock:sand_island/get_64_of_all_crops": {
+    "criteria": {
+      "carrot": "2025-01-01 21:04:47 +0000"
+    },
+    "done": false
   },
   "skyblock:skyblock/all_islands": {
     "criteria": {
@@ -401,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-01 21:08:52 +0000"
+    },
+    "done": true
+  },
   "skyblock:sand_island/build_mob_farm": {
     "criteria": {
       "bone": "2025-01-01 20:18:12 +0000"
@@ -416,6 +434,25 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/nether_islands": {
+    "criteria": {
+      "island_2": "2025-01-01 21:02:58 +0000",
+      "island_1": "2025-01-01 21:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
     },
     "done": true
   },
@@ -455,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 20:19:35 +0000"
@@ -473,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-01 21:02:56 +0000"
+    },
+    "done": true
+  },
   "skyblock:sand_island/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-01-01 20:17:51 +0000",
@@ -481,6 +530,12 @@
       "creeper": "2025-01-01 20:17:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
@@ -502,6 +557,8 @@
   },
   "skyblock:nether/reach_all_nether_biomes": {
     "criteria": {
+      "warped_forest": "2025-01-01 21:08:07 +0000",
+      "crimson_forest": "2025-01-01 21:02:43 +0000",
       "nether_wastes": "2025-01-01 20:47:12 +0000"
     },
     "done": false
@@ -533,6 +590,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-01 20:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 21:08:51 +0000"
     },
     "done": true
   },
@@ -578,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 21:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-01 20:47:12 +0000"
@@ -593,6 +662,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
     },
     "done": true
   },
@@ -674,6 +749,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 21:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-01 20:18:01 +0000"
@@ -686,9 +773,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-01-01 21:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-01 21:02:56 +0000"
     },
     "done": true
   },
@@ -704,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-01 21:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-01 20:38:16 +0000"
@@ -713,6 +818,18 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-01-01 20:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
     },
     "done": true
   },
@@ -731,6 +848,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
     },
     "done": true
   },
@@ -767,6 +890,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-01 21:02:55 +0000"
     },
     "done": true
   },
