@@ -1025,9 +1025,21 @@
     },
     "done": true
   },
+  "skyblock:skyblock/nether": {
+    "criteria": {
+      "requirement": "2025-01-01 20:46:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-01 20:46:22 +0000"
     },
     "done": true
   },
@@ -1082,6 +1094,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-01 19:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 20:46:22 +0000"
     },
     "done": true
   },
@@ -1148,6 +1166,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 19:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 20:46:22 +0000"
     },
     "done": true
   },

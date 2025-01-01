@@ -1,0 +1,141 @@
+{
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-01 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-01 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/root": {
+    "criteria": {
+      "get_item": "2025-01-01 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "skyblock:nether/root": {
+    "criteria": {
+      "requirement": "2025-01-01 20:45:12 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/stone_pickaxe": {
+    "criteria": {
+      "pickaxe": "2025-01-01 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/nether": {
+    "criteria": {
+      "requirement": "2025-01-01 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-01 20:45:18 +0000"
+    },
+    "done": true
+  },
+  "skyblock:nether/reach_all_nether_biomes": {
+    "criteria": {
+      "nether_wastes": "2025-01-01 20:45:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-01 20:44:31 +0000"
+    },
+    "done": true
+  },
+  "skyblock:technical/update": {
+    "criteria": {
+      "tick": "2025-01-01 20:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-01 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-01 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/skyblock/sand": {
+    "criteria": {
+      "has_stones": "2025-01-01 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-01 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-01 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "skyblock:technical/modifiers": {
+    "criteria": {
+      "tick": "2025-01-01 20:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-01-01 20:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-01 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-01 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-01 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-01 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-01 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
