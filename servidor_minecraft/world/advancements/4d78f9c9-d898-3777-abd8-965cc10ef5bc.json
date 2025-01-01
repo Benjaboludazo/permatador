@@ -1,25 +1,73 @@
 {
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2024-12-31 20:36:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-12-31 20:35:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-31 20:33:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_stone_pickaxe": "2024-12-31 20:39:49 +0000"
+      "unlock_right_away": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:technical/update": {
+    "criteria": {
+      "tick": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:technical/modifiers": {
+    "criteria": {
+      "tick": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 20:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-31 20:33:35 +0000"
     },
     "done": true
   },
@@ -29,21 +77,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/skyblock/cobbled_deepslate": {
+  "minecraft:recipes/skyblock/sand": {
+    "criteria": {
+      "has_stones": "2024-12-31 20:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-31 20:35:03 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/get_wood": {
+    "criteria": {
+      "requirement": "2024-12-31 20:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 20:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 20:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-31 20:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-31 20:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-31 20:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-31 20:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-31 20:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-31 20:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-31 20:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-31 20:36:08 +0000"
     },
     "done": true
   },
-  "skyblock:skyblock/slabs": {
+  "minecraft:recipes/skyblock/cobbled_deepslate": {
     "criteria": {
-      "requirement": "2024-12-31 20:39:16 +0000"
-    },
-    "done": true
-  },
-  "skyblock:skyblock/stone_pickaxe": {
-    "criteria": {
-      "pickaxe": "2024-12-31 20:39:49 +0000"
+      "has_cobblestone": "2024-12-31 20:36:08 +0000"
     },
     "done": true
   },
@@ -77,57 +191,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-12-31 20:35:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-31 20:35:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-31 20:36:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-31 20:35:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-12-31 20:35:55 +0000"
-    },
-    "done": true
-  },
-  "skyblock:skyblock/wooden_pickaxe": {
-    "criteria": {
-      "wood": "2024-12-31 20:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-12-31 20:35:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-31 20:33:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2024-12-31 20:35:55 +0000"
     },
     "done": true
   },
@@ -137,63 +203,15 @@
     },
     "done": true
   },
-  "skyblock:technical/update": {
-    "criteria": {
-      "tick": "2024-12-31 20:33:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-31 20:36:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 20:33:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 20:33:35 +0000"
-    },
-    "done": true
-  },
-  "skyblock:skyblock/get_wood": {
-    "criteria": {
-      "requirement": "2024-12-31 20:35:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/skyblock/sand": {
-    "criteria": {
-      "has_stones": "2024-12-31 20:34:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-12-31 20:35:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-31 20:35:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-31 20:36:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2024-12-31 20:33:35 +0000"
     },
     "done": true
   },
@@ -209,33 +227,9 @@
     },
     "done": true
   },
-  "skyblock:technical/modifiers": {
-    "criteria": {
-      "tick": "2024-12-31 20:33:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 20:33:35 +0000"
-    },
-    "done": true
-  },
-  "skyblock:skyblock/get_sapling": {
-    "criteria": {
-      "requirement": "2024-12-31 20:36:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-31 20:36:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 20:33:35 +0000"
     },
     "done": true
   },
@@ -245,33 +239,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-31 20:33:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-31 20:36:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "skyblock:skyblock/get_sapling": {
     "criteria": {
-      "has_log": "2024-12-31 20:35:03 +0000"
+      "requirement": "2024-12-31 20:36:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "skyblock:skyblock/slabs": {
     "criteria": {
-      "in_water": "2024-12-31 20:33:35 +0000"
+      "requirement": "2024-12-31 20:39:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "in_water": "2024-12-31 20:33:35 +0000"
+      "has_stone_pickaxe": "2024-12-31 20:39:49 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/stone_pickaxe": {
+    "criteria": {
+      "pickaxe": "2024-12-31 20:39:49 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/wooden_pickaxe": {
+    "criteria": {
+      "wood": "2024-12-31 20:49:24 +0000"
     },
     "done": true
   },
