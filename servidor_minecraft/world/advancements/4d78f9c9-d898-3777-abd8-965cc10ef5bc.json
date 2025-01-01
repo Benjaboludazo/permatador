@@ -367,10 +367,12 @@
   },
   "skyblock:skyblock/all_islands": {
     "criteria": {
+      "geode_island": "2025-01-01 23:04:32 +0000",
       "forest_island": "2025-01-01 20:22:49 +0000",
+      "sand_island": "2025-01-01 23:03:31 +0000",
       "cave_island": "2025-01-01 22:14:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
@@ -381,6 +383,12 @@
   "skyblock:sand_island/killed_creeper": {
     "criteria": {
       "requirement": "2025-01-01 20:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-01-01 23:04:35 +0000"
     },
     "done": true
   },
@@ -549,6 +557,12 @@
     },
     "done": true
   },
+  "skyblock:sand_island/root": {
+    "criteria": {
+      "sand_island": "2025-01-01 23:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 20:19:35 +0000"
@@ -692,6 +706,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-01 20:18:01 +0000"
+    },
+    "done": true
+  },
+  "skyblock:geode_island/root": {
+    "criteria": {
+      "geode_island": "2025-01-01 23:04:32 +0000"
     },
     "done": true
   },
