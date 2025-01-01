@@ -433,6 +433,7 @@
   },
   "skyblock:sand_island/balanced_diet": {
     "criteria": {
+      "rotten_flesh": "2025-01-01 22:00:27 +0000",
       "carrot": "2025-01-01 20:27:12 +0000"
     },
     "done": false
@@ -447,6 +448,12 @@
     "criteria": {
       "island_2": "2025-01-01 21:02:58 +0000",
       "island_1": "2025-01-01 21:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-01 21:59:20 +0000"
     },
     "done": true
   },
@@ -679,6 +686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-01 21:59:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 20:19:35 +0000"
@@ -898,6 +911,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-01 20:43:08 +0000"
+    },
+    "done": true
+  },
+  "skyblock:nether/get_ancient_debris": {
+    "criteria": {
+      "get_ancient_debris": "2025-01-01 21:59:20 +0000"
     },
     "done": true
   },
