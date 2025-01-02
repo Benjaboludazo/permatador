@@ -1634,6 +1634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-01-02 00:36:55 +0000"
+    },
+    "done": true
+  },
   "skyblock:forest_island/feed_chickens": {
     "criteria": {
       "wheat": "2025-01-01 23:30:26 +0000",
@@ -1814,6 +1820,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-02 00:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-01-02 00:36:55 +0000"
     },
     "done": true
   },
