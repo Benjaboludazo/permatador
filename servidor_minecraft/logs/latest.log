@@ -1152,3 +1152,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Jan2025 06:16:39.310] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AA_zz99
 [13Jan2025 06:18:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HyperDaiki has made the advancement [What a Deal!]
 [13Jan2025 06:23:49.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/582, l='ServerLevel[world]', x=525.23, y=66.00, z=25.57] died, message: 'Mason was slain by Zombie'
+[13Jan2025 06:31:37.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HyperDaiki has made the advancement [Cover Me with Diamonds]
+[13Jan2025 06:37:23.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HyperDaiki succumbed to infection.
+[13Jan2025 06:37:23.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HyperDaiki lost connection: Disconnected
+[13Jan2025 06:37:23.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HyperDaiki left the game
+[13Jan2025 06:37:23.156] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HyperDaiki
+[13Jan2025 06:37:23.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28322ms or 566 ticks behind
+[13Jan2025 06:37:23.232] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jan2025 06:37:46.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HyperDaiki[/172.27.42.39:60604] logged in with entity id 225969 at (609.5934209434855, 61.0, 55.421016460269286)
+[13Jan2025 06:37:46.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HyperDaiki joined the game
+[13Jan2025 06:37:46.330] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to HyperDaiki
+[13Jan2025 06:37:46.447] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from HyperDaiki
+[13Jan2025 06:37:46.467] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HyperDaiki (18)
+[13Jan2025 06:37:46.468] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HyperDaiki
+[13Jan2025 06:38:02.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 372b4196-b2eb-3228-81ac-16c00e3936ba
+[13Jan2025 06:38:03.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 372b4196-b2eb-3228-81ac-16c00e3936ba
+[13Jan2025 06:38:03.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player HyperDaiki (372b4196-b2eb-3228-81ac-16c00e3936ba) successfully connected to voice chat
+[13Jan2025 06:38:06.301] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Jan2025 06:42:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miller2014 has made the advancement [Cover Me with Diamonds]
+[13Jan2025 06:47:03.501] [ForkJoinPool.commonPool-worker-7/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[13Jan2025 06:47:03.501] [ForkJoinPool.commonPool-worker-7/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[13Jan2025 06:47:03.501] [ForkJoinPool.commonPool-worker-7/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[13Jan2025 06:47:03.501] [ForkJoinPool.commonPool-worker-7/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[13Jan2025 06:47:03.501] [ForkJoinPool.commonPool-worker-7/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[13Jan2025 06:47:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HyperDaiki> zz
+[13Jan2025 06:47:46.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miller2014 was slain by HyperDaiki
+[13Jan2025 06:47:48.015] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Jan2025 06:55:47.946] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@3f6b6d2e]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[13Jan2025 06:55:47.949] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@69f1eb20
+[13Jan2025 06:55:47.951] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[13Jan2025 06:55:47.951] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[13Jan2025 06:55:47.996] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:55:47.996] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:56:38.005] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:56:38.006] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10

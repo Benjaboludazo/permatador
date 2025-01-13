@@ -4761,15 +4761,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+  "projectvibrantjourneys:recipes/decorations/cobblestone_from_rocks": {
     "criteria": {
-      "has_dandelion": "2025-01-13 06:12:00 +0000"
+      "has_rocks": "2025-01-13 05:45:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+  "projectvibrantjourneys:recipes/building_blocks/bone_from_bones": {
     "criteria": {
-      "has_gravel": "2025-01-13 06:01:55 +0000"
+      "has_bones": "2025-01-13 05:45:23 +0000"
     },
     "done": true
   },
@@ -4779,15 +4779,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-13 05:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-13 05:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-13 06:01:55 +0000"
     },
     "done": true
   },
-  "projectvibrantjourneys:recipes/decorations/cobblestone_from_rocks": {
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
-      "has_rocks": "2025-01-13 05:45:13 +0000"
+      "has_gravel": "2025-01-13 06:01:55 +0000"
     },
     "done": true
   },
@@ -4815,33 +4827,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-01-13 06:12:00 +0000"
-    },
-    "done": true
-  },
-  "regrowth:rgroot/teardown": {
-    "criteria": {
-      "has_traded": "2025-01-13 06:18:56 +0000"
-    },
-    "done": false
-  },
-  "projectvibrantjourneys:recipes/building_blocks/bone_from_bones": {
-    "criteria": {
-      "has_bones": "2025-01-13 05:45:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-13 06:01:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-01-13 06:02:20 +0000"
     },
     "done": true
   },
@@ -4863,21 +4851,9 @@
     },
     "done": true
   },
-  "regrowth:rgroot/rgroot": {
-    "criteria": {
-      "has_traded": "2025-01-13 06:18:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-13 06:01:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-01-13 05:49:04 +0000"
     },
     "done": true
   },
@@ -4887,29 +4863,11 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-01-13 06:11:30 +0000"
-    },
-    "done": true
-  },
-  "regrowth:rgroot/saferhedges": {
-    "criteria": {
-      "has_traded": "2025-01-13 06:18:56 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-13 06:01:55 +0000"
     },
     "done": true
-  },
-  "regrowth:rgroot/offlimits": {
-    "criteria": {
-      "has_traded": "2025-01-13 06:18:56 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
@@ -4929,9 +4887,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-01-13 06:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-13 06:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-01-13 06:02:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-13 06:11:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-13 06:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-13 06:12:00 +0000"
     },
     "done": true
   },
@@ -4941,21 +4929,111 @@
     },
     "done": true
   },
+  "regrowth:rgroot/teardown": {
+    "criteria": {
+      "has_traded": "2025-01-13 06:18:56 +0000"
+    },
+    "done": false
+  },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2025-01-13 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2025-01-13 06:18:56 +0000"
+    },
+    "done": false
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_traded": "2025-01-13 06:18:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-13 06:18:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+  "bbb:recipes/oak_beam": {
     "criteria": {
-      "has_gravel": "2025-01-13 06:01:55 +0000"
+      "has_log": "2025-01-13 06:24:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "bbb:recipes/oak_wall": {
     "criteria": {
-      "has_raw_copper": "2025-01-13 05:49:04 +0000"
+      "has_logs": "2025-01-13 06:24:35 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_pallet": {
+    "criteria": {
+      "has_planks": "2025-01-13 06:24:35 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_frame": {
+    "criteria": {
+      "has_log": "2025-01-13 06:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-13 06:24:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-01-13 06:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-13 06:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-13 06:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-13 06:36:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-13 06:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-13 06:46:13 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-01-13 06:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-13 06:46:13 +0000"
     },
     "done": true
   },
