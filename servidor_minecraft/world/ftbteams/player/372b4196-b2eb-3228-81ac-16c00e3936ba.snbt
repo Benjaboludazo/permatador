@@ -1,0 +1,17 @@
+{
+	id: "372b4196-b2eb-3228-81ac-16c00e3936ba"
+	type: "player"
+	player_name: "HyperDaiki"
+	ranks: {
+		372b4196-b2eb-3228-81ac-16c00e3936ba: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "HyperDaiki"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF92"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

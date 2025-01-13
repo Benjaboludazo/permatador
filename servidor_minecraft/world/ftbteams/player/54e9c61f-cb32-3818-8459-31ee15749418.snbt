@@ -1,0 +1,17 @@
+{
+	id: "54e9c61f-cb32-3818-8459-31ee15749418"
+	type: "player"
+	player_name: "Miller2014"
+	ranks: {
+		54e9c61f-cb32-3818-8459-31ee15749418: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Miller2014"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFAA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
