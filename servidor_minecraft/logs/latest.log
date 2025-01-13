@@ -1243,3 +1243,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Jan2025 07:45:46.790] [ForkJoinPool.commonPool-worker-10/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
 [13Jan2025 07:45:46.790] [ForkJoinPool.commonPool-worker-10/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
 [13Jan2025 07:45:46.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Miller2014> zzZZZZ
+[13Jan2025 07:49:26.737] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13Jan2025 07:51:24.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miller2014 hit the ground too hard
+[13Jan2025 07:51:25.998] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Jan2025 07:56:57.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HyperDaiki lost connection: Disconnected
+[13Jan2025 07:56:57.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HyperDaiki left the game
+[13Jan2025 07:56:57.301] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HyperDaiki
+[13Jan2025 07:57:55.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Miller2014 lost connection: Disconnected
+[13Jan2025 07:57:55.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miller2014 left the game
+[13Jan2025 07:57:56.000] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miller2014
+[13Jan2025 07:58:01.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Jan2025 07:58:01.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jan2025 07:58:01.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jan2025 07:58:01.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jan2025 07:58:02.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jan2025 07:58:02.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jan2025 07:58:02.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[13Jan2025 07:58:02.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jan2025 07:58:02.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[13Jan2025 07:58:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jan2025 07:58:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jan2025 07:58:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[13Jan2025 07:58:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jan2025 07:58:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[13Jan2025 07:58:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jan2025 07:58:02.938] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Jan2025 07:58:02.940] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[13Jan2025 07:58:02.951] [Server thread/INFO] [Framework/]: Sending config unload event for mighty_mail.server.toml
+[13Jan2025 07:58:02.952] [Server thread/INFO] [Framework/]: Finished unloading server configs

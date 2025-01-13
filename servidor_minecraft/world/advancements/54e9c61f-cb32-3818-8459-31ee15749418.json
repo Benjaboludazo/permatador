@@ -4677,6 +4677,8 @@
     "criteria": {
       "potato": "2025-01-13 07:41:48 +0000",
       "wheat": "2025-01-13 07:40:19 +0000",
+      "melon": "2025-01-13 07:53:19 +0000",
+      "pumpkin": "2025-01-13 07:56:44 +0000",
       "carrot": "2025-01-13 05:25:29 +0000"
     },
     "done": false
@@ -5872,6 +5874,12 @@
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-01-13 07:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-13 07:56:29 +0000"
     },
     "done": true
   },
