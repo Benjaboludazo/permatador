@@ -15801,3 +15801,145 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Jan2025 06:56:36.890] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
 [13Jan2025 06:56:38.005] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
 [13Jan2025 06:56:38.006] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:57:27.991] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:57:27.991] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:57:28.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 06:57:28.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 06:57:33.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miller2014 was slain by Zombie
+[13Jan2025 06:57:35.154] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Jan2025 06:58:18.008] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:58:18.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:58:44.050] [ForkJoinPool.commonPool-worker-8/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[13Jan2025 06:58:44.051] [ForkJoinPool.commonPool-worker-8/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[13Jan2025 06:58:44.051] [ForkJoinPool.commonPool-worker-8/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[13Jan2025 06:58:44.051] [ForkJoinPool.commonPool-worker-8/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[13Jan2025 06:58:44.051] [ForkJoinPool.commonPool-worker-8/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[13Jan2025 06:58:44.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HyperDaiki> zzz
+[13Jan2025 06:59:07.998] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:59:07.999] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:59:57.998] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 06:59:57.999] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:02:28.977] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[13Jan2025 07:02:28.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 07:02:28.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 07:07:28.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 07:07:28.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 07:11:28.891] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4b01355c]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[13Jan2025 07:11:28.891] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@69996fcc
+[13Jan2025 07:11:28.891] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[13Jan2025 07:11:28.892] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[13Jan2025 07:11:28.949] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:11:28.950] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:11:48.038] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[13Jan2025 07:12:18.950] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:12:18.950] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:12:28.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 07:12:28.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 07:13:08.952] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:13:08.952] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:13:58.957] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:13:58.957] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:14:48.955] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:14:48.956] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:15:38.963] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:15:38.963] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[13Jan2025 07:16:14.109] [Server thread/DEBUG] [pointblank/]: 74109 handling client fire request
+[13Jan2025 07:16:14.109] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 6
+[13Jan2025 07:16:14.109] [Server thread/DEBUG] [pointblank/]: 74109 - obtained hit result in 0ms
+[13Jan2025 07:16:14.109] [Server thread/DEBUG] [pointblank/]: 74109 obtained hit results
+[13Jan2025 07:16:14.109] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38f94a7f
+[13Jan2025 07:16:14.124] [Server thread/DEBUG] [pointblank/]: Creating state e866b666-3c3f-49bd-b4b9-fc268df434d2
+[13Jan2025 07:16:14.134] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.22, y=66.00, z=63.68] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.22, y=66.00, z=63.68]
+[13Jan2025 07:16:14.134] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.22, y=66.00, z=63.68] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=630.53, y=67.00, z=62.71]
+[13Jan2025 07:16:14.574] [Server thread/DEBUG] [pointblank/]: 74574 handling client fire request
+[13Jan2025 07:16:14.574] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 5
+[13Jan2025 07:16:14.574] [Server thread/DEBUG] [pointblank/]: 74574 - obtained hit result in 0ms
+[13Jan2025 07:16:14.574] [Server thread/DEBUG] [pointblank/]: 74574 obtained hit results
+[13Jan2025 07:16:14.574] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6c331071
+[13Jan2025 07:16:14.575] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.19, y=66.00, z=63.80] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.19, y=66.00, z=63.80]
+[13Jan2025 07:16:14.575] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.19, y=66.00, z=63.80] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=630.45, y=67.00, z=62.63]
+[13Jan2025 07:16:15.659] [Server thread/DEBUG] [pointblank/]: 75659 handling client fire request
+[13Jan2025 07:16:15.659] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 4
+[13Jan2025 07:16:15.659] [Server thread/DEBUG] [pointblank/]: 75659 - obtained hit result in 0ms
+[13Jan2025 07:16:15.659] [Server thread/DEBUG] [pointblank/]: 75659 obtained hit results
+[13Jan2025 07:16:15.659] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a8c82af
+[13Jan2025 07:16:15.660] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.34, y=66.00, z=64.06] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.34, y=66.00, z=64.06]
+[13Jan2025 07:16:15.660] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.34, y=66.00, z=64.06] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=630.44, y=67.00, z=62.63]
+[13Jan2025 07:16:16.352] [Server thread/DEBUG] [pointblank/]: 76352 handling client fire request
+[13Jan2025 07:16:16.352] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 3
+[13Jan2025 07:16:16.352] [Server thread/DEBUG] [pointblank/]: 76352 - obtained hit result in 0ms
+[13Jan2025 07:16:16.352] [Server thread/DEBUG] [pointblank/]: 76352 obtained hit results
+[13Jan2025 07:16:16.352] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a4046f5
+[13Jan2025 07:16:16.353] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.34, y=66.00, z=64.06] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.34, y=66.00, z=64.06]
+[13Jan2025 07:16:16.353] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.34, y=66.00, z=64.06] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=630.44, y=67.00, z=62.63]
+[13Jan2025 07:16:17.207] [Server thread/DEBUG] [pointblank/]: 77207 handling client fire request
+[13Jan2025 07:16:17.208] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 2
+[13Jan2025 07:16:17.208] [Server thread/DEBUG] [pointblank/]: 77208 - obtained hit result in 0ms
+[13Jan2025 07:16:17.208] [Server thread/DEBUG] [pointblank/]: 77208 obtained hit results
+[13Jan2025 07:16:17.208] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4808a05d
+[13Jan2025 07:16:17.208] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.26, y=66.00, z=64.23] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.26, y=66.00, z=64.23]
+[13Jan2025 07:16:17.208] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.26, y=66.00, z=64.23] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=630.44, y=67.00, z=62.63]
+[13Jan2025 07:16:18.316] [Server thread/DEBUG] [pointblank/]: 78316 handling client fire request
+[13Jan2025 07:16:18.316] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 1
+[13Jan2025 07:16:18.316] [Server thread/DEBUG] [pointblank/]: 78316 - obtained hit result in 0ms
+[13Jan2025 07:16:18.316] [Server thread/DEBUG] [pointblank/]: 78316 obtained hit results
+[13Jan2025 07:16:18.316] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26671847
+[13Jan2025 07:16:18.317] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.33, y=66.00, z=64.23] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.33, y=66.00, z=64.23]
+[13Jan2025 07:16:18.317] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.33, y=66.00, z=64.23] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=630.48, y=67.00, z=62.58]
+[13Jan2025 07:16:19.262] [Server thread/DEBUG] [pointblank/]: 79262 handling client fire request
+[13Jan2025 07:16:19.262] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 0
+[13Jan2025 07:16:19.262] [Server thread/DEBUG] [pointblank/]: 79262 - obtained hit result in 0ms
+[13Jan2025 07:16:19.262] [Server thread/DEBUG] [pointblank/]: 79262 obtained hit results
+[13Jan2025 07:16:19.262] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a46554d
+[13Jan2025 07:16:19.263] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.34, y=66.00, z=64.23] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.34, y=66.00, z=64.23]
+[13Jan2025 07:16:19.263] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=594.34, y=66.00, z=64.23] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=630.48, y=67.00, z=62.58]
+[13Jan2025 07:16:54.003] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 7
+[13Jan2025 07:16:56.465] [Server thread/DEBUG] [pointblank/]: 16465 handling client fire request
+[13Jan2025 07:16:56.465] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 6
+[13Jan2025 07:16:56.465] [Server thread/DEBUG] [pointblank/]: 16465 - obtained hit result in 0ms
+[13Jan2025 07:16:56.465] [Server thread/DEBUG] [pointblank/]: 16465 obtained hit results
+[13Jan2025 07:16:56.465] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@29c09f30
+[13Jan2025 07:16:56.465] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=607.80, y=67.30, z=60.96] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=607.80, y=67.30, z=60.96]
+[13Jan2025 07:16:56.465] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=607.80, y=67.30, z=60.96] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=633.34, y=67.00, z=61.99]
+[13Jan2025 07:16:57.462] [Server thread/DEBUG] [pointblank/]: 17462 handling client fire request
+[13Jan2025 07:16:57.462] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 5
+[13Jan2025 07:16:57.462] [Server thread/DEBUG] [pointblank/]: 17462 - obtained hit result in 0ms
+[13Jan2025 07:16:57.462] [Server thread/DEBUG] [pointblank/]: 17462 obtained hit results
+[13Jan2025 07:16:57.462] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58de8113
+[13Jan2025 07:16:57.463] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=607.36, y=66.88, z=60.49] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=607.36, y=66.88, z=60.49]
+[13Jan2025 07:16:57.463] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=607.36, y=66.88, z=60.49] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=633.34, y=67.00, z=61.99]
+[13Jan2025 07:16:58.116] [Server thread/DEBUG] [pointblank/]: 18116 handling client fire request
+[13Jan2025 07:16:58.116] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 4
+[13Jan2025 07:16:58.116] [Server thread/DEBUG] [pointblank/]: 18116 - obtained hit result in 0ms
+[13Jan2025 07:16:58.116] [Server thread/DEBUG] [pointblank/]: 18116 obtained hit results
+[13Jan2025 07:16:58.116] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@cbcaf76
+[13Jan2025 07:16:58.117] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=606.98, y=66.88, z=60.29] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=606.98, y=66.88, z=60.29]
+[13Jan2025 07:16:58.117] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=606.98, y=66.88, z=60.29] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=633.34, y=67.00, z=61.99]
+[13Jan2025 07:16:58.815] [Server thread/DEBUG] [pointblank/]: 18815 handling client fire request
+[13Jan2025 07:16:58.815] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 3
+[13Jan2025 07:16:58.815] [Server thread/DEBUG] [pointblank/]: 18815 - obtained hit result in 0ms
+[13Jan2025 07:16:58.815] [Server thread/DEBUG] [pointblank/]: 18815 obtained hit results
+[13Jan2025 07:16:58.815] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4c634499
+[13Jan2025 07:16:58.815] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=606.23, y=66.88, z=60.30] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=606.23, y=66.88, z=60.30]
+[13Jan2025 07:16:58.816] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=606.23, y=66.88, z=60.30] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=633.34, y=67.00, z=61.99]
+[13Jan2025 07:16:59.788] [Server thread/DEBUG] [pointblank/]: 19788 handling client fire request
+[13Jan2025 07:16:59.788] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 2
+[13Jan2025 07:16:59.788] [Server thread/DEBUG] [pointblank/]: 19788 - obtained hit result in 0ms
+[13Jan2025 07:16:59.789] [Server thread/DEBUG] [pointblank/]: 19789 obtained hit results
+[13Jan2025 07:16:59.789] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e599038
+[13Jan2025 07:16:59.789] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=605.41, y=66.88, z=60.08] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=605.41, y=66.88, z=60.08]
+[13Jan2025 07:16:59.789] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=605.41, y=66.88, z=60.08] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=633.34, y=67.00, z=62.13]
+[13Jan2025 07:17:00.461] [Server thread/DEBUG] [pointblank/]: 20461 handling client fire request
+[13Jan2025 07:17:00.462] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 1
+[13Jan2025 07:17:00.462] [Server thread/DEBUG] [pointblank/]: 20462 - obtained hit result in 0ms
+[13Jan2025 07:17:00.462] [Server thread/DEBUG] [pointblank/]: 20462 obtained hit results
+[13Jan2025 07:17:00.462] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c4595c2
+[13Jan2025 07:17:00.463] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=605.65, y=66.88, z=60.01] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=605.65, y=66.88, z=60.01]
+[13Jan2025 07:17:00.463] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=605.65, y=66.88, z=60.01] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=633.34, y=67.00, z=62.13]
+[13Jan2025 07:17:01.208] [Server thread/DEBUG] [pointblank/]: 21208 handling client fire request
+[13Jan2025 07:17:01.208] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 424397171 to 0
+[13Jan2025 07:17:01.208] [Server thread/DEBUG] [pointblank/]: 21208 - obtained hit result in 0ms
+[13Jan2025 07:17:01.208] [Server thread/DEBUG] [pointblank/]: 21208 obtained hit results
+[13Jan2025 07:17:01.208] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@571660a4
+[13Jan2025 07:17:01.209] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=605.65, y=66.88, z=60.01] sends hit scan notification to ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=605.65, y=66.88, z=60.01]
+[13Jan2025 07:17:01.209] [Server thread/DEBUG] [pointblank/]: ServerPlayer['HyperDaiki'/225969, l='ServerLevel[world]', x=605.65, y=66.88, z=60.01] sends hit scan notification to ServerPlayer['Miller2014'/293, l='ServerLevel[world]', x=633.36, y=67.00, z=62.11]
